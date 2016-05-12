@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "gateblu-rebuilder",
+      "/Users/octoblu/tmp"
+    ]
+  ],
+  "_from": "gateblu-rebuilder@*",
+  "_id": "gateblu-rebuilder@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gateblu-rebuilder",
+  "_nodeVersion": "0.10.38",
+  "_npmUser": {
+    "email": "serveradmin@octoblu.com",
+    "name": "octoblu"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gateblu-rebuilder",
+    "raw": "gateblu-rebuilder",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gateblu-rebuilder/-/gateblu-rebuilder-1.0.0.tgz",
+  "_shasum": "a1a13ee54c07dc98041c650f8115271520cd7804",
+  "_shrinkwrap": null,
+  "_spec": "gateblu-rebuilder",
+  "_where": "/Users/octoblu/tmp",
+  "author": {
+    "email": "npm@octoblu.com",
+    "name": "Octoblu"
+  },
+  "bin": {
+    "gateblu-rebuilder": "./command.js"
+  },
+  "dependencies": {
+    "async": "^1.4.0",
+    "lodash": "^3.10.1",
+    "meshblu": "^1.30.1"
+  },
+  "description": "Rebuild gateblu",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a1a13ee54c07dc98041c650f8115271520cd7804",
+    "tarball": "https://registry.npmjs.org/gateblu-rebuilder/-/gateblu-rebuilder-1.0.0.tgz"
+  },
+  "gitHead": "4840fbbab0c7b7f1984ac8778718a30413fa8435",
+  "keywords": [
+    "gateblu"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "octoblu",
+      "email": "serveradmin@octoblu.com"
+    }
+  ],
+  "name": "gateblu-rebuilder",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "github.com/octoblu/gateblu-rebuilder"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "version": "1.0.0"
+}
